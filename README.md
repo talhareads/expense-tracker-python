@@ -36,7 +36,7 @@ expense-tracker-python/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/expense-tracker-python.git
+git clone https://github.com/talhareads/expense-tracker-python.git
 ```
 
 2. Navigate to the project directory:
